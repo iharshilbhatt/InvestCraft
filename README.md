@@ -1,7 +1,5 @@
 # InvestCraft: Intelligent Money Management  
 
-## Team Members
-- Harshil Bhatt
 
 ## Objective
 InvestCraft aims to build a machine learning model that predicts investor risk tolerance. The model is trained on a dataset containing investor profiles, including demographic, financial, and behavioral attributes. By predicting risk tolerance on a scale from 1 to 10, InvestCraft facilitates tailored investment strategy recommendations.
